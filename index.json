@@ -1,10 +1,10 @@
 [
 {
 	"uri": "/organization/charter/",
-	"title": "Virtual Currency Governance Task Force Charter",
+	"title": "Cryptoassets Governance Task Force Charter",
 	"tags": [],
 	"description": "",
-	"content": " Overview / Abst 仮想通貨 (Virtual Currency) の認知が急速に拡大している一方、大規模なセキュリティインシデントが発生するなど、利用者保護が喫緊の課題とされている。 仮想通貨交換業関係者に留まらずセキュリティ専門家を含む多様な立場から、情報セキュリティのための知見の集約を通じて、基準等の策定に資する技術情報を提供することにより、仮想通貨交換業のセキュリティの底上げを図り、 利用者保護に寄与する。\nStructure 本タスクフォースの意思決定は、Board of Trustees(BoT)の合議による。 個別テーマについては、Working Groupを設置する。 Working GroupはTFメンバーがCharterとChair候補を提案し、BoTが承認する。 最終成果物は全てタスクフォース文書として公開する。\nBoard of Trustees members (Aiueo-order)  岩下直行 教授 (京都大学) (任期: 2018年1月-2020年12月) 上原哲太郎 教授 (立命館大学) (任期: 2018年1月-2020年12月) 松尾真一郎 教授 (ジョージタウン大学) (任期: 2018年1月-2020年12月)  General Policy  Neutrality / 中立性 仮想通貨交換事業者にとどまらず、学術・セキュリティ専門家など、多面的な視点から本問題について取り組む Transparency / 透明性 本TFで策定する文書、議事録などを広く一般に提供することにより、透明性が担保されたTF運営を目指す Effectivity / 実効性 本TFの成果について、標準化機関等での国内外の専門家による知見の反映を通じ、実務に資するドキュメントの作成を目指す。  Scope  仮想通貨に関する中立的組織として安全対策に資する情報の提供  Out of Scope (重要)  制度および自主規制の施行に関わる事項  Goals Phase, and Milestones 当面は2018年7月までに下記文書を作成する。 - 仮想通貨交換業者の安全対策における基本的な考え方(仮)（2018年7月） - IETFへのInternet Draftのsubmission - ISO TC307へのTechnical Reportのsubmission\n"
+	"content": " Overview / Abst 暗号資産・仮想通貨 (Cryptoassets / Virtual Currency) の認知が急速に拡大している一方、大規模なセキュリティインシデントが発生するなど、利用者保護が喫緊の課題とされている。 仮想通貨交換業関係者に留まらずセキュリティ専門家を含む多様な立場から、情報セキュリティのための知見の集約を通じて、基準等の策定に資する技術情報を提供することにより、仮想通貨交換業のセキュリティの底上げを図り、 利用者保護に寄与する。\nStructure 本タスクフォースの意思決定は、Board of Trustees(BoT)の合議による。 個別テーマについては、Working Groupを設置する。 Working GroupはTFメンバーがCharterとChair候補を提案し、BoTが承認する。 最終成果物は全てタスクフォース文書として公開する。\nBoard of Trustees members (Aiueo-order)  岩下直行 教授 (京都大学) (任期: 2018年1月-2020年12月) 上原哲太郎 教授 (立命館大学) (任期: 2018年1月-2020年12月) 松尾真一郎 教授 (ジョージタウン大学) (任期: 2018年1月-2020年12月)  General Policy  Neutrality / 中立性 仮想通貨交換事業者にとどまらず、学術・セキュリティ専門家など、多面的な視点から本問題について取り組む Transparency / 透明性 本TFで策定する文書、議事録などを広く一般に提供することにより、透明性が担保されたTF運営を目指す Effectivity / 実効性 本TFの成果について、標準化機関等での国内外の専門家による知見の反映を通じ、実務に資するドキュメントの作成を目指す。  Scope  仮想通貨に関する中立的組織として安全対策に資する情報の提供  Out of Scope (重要)  制度および自主規制の施行に関わる事項  Goals Phase, and Milestones 当面は2018年7月までに下記文書を作成する。 - 仮想通貨交換業者の安全対策における基本的な考え方(仮)（2018年7月） - IETFへのInternet Draftのsubmission - ISO TC307へのTechnical Reportのsubmission\n"
 },
 {
 	"uri": "/organization/members/",
@@ -18,14 +18,14 @@
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": " Virtual Currency Governance Task Force (VCGTF) Virtual Currency Governance Task Force (VCGTF)は、正式な金融当局または自主規制団体による検討に先立ち、 セキュリティ専門家と仮想通貨交換業者の関係者で、利用者・消費者保護のリスク管理のための安全対策基準の策定を目的として設立された研究会です。\n目的 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定に資する先行的な取り組み、関連する規制、 国際標準、ベストプラクティスなどを整理することを通じ、実効性を有する安全対策基準の策定に資する技術情報の提供を目的とします。\n概要 Board of Trusteeを最終意思決定機関とし、個別テーマについて議論をするWorking Groupにより構成されています。\n運営方針 以下の3つの方針に基づき、運営しています。\n Neutrality / 中立性 Transparency / 透明性 Effectivity / 実効性  運営方針やBoTメンバーについては、VCGTF Charter Documentをご覧ください。\nWorking Groups 2018年4月現在、以下のWorking Groupが設立されています。\n Security Working Group  これまでの活動  2018年2月8日: 第1回検討会(TaskForce会合) 2018年2月15日: 第2回検討会(TaskForce会合) 2018年2月21日: 第3回検討会(TaskForce会合) 2018年2月28日: 第4回検討会(TaskForce会合) 2018年3月8日: 第5回検討会(TaskForce会合) 2018年3月15日: 第6回検討会(TaskForce会合) 2018年3月22日: 第7回検討会(TaskForce会合) 2018年3月29日: 第8回検討会(TaskForce会合) 2018年4月6日: 第9回検討会(TaskForce会合) 2018年4月10日: 第1回Security WG作業部会 2018年4月13日: 第10回検討会(TaskForce会合) 2018年4月18日: 第2回Security WG作業部会 2018年4月20日: 第11回検討会(TaskForce会合) 2018年4月24日: 第3回Security WG作業部会 2018年4月27日: 第12回検討会(TaskForce会合) 2018年5月11日: 第13回検討会(TaskForce会合) 2018年5月15日: 第4回Security WG作業部会 2018年5月23日: 第14回検討会(TaskForce会合) 2018年5月25日: 第5回Security WG作業部会 2018年6月1日: 第15回検討会(TaskForce会合) 2018年6月6日: 第6回Security WG作業部会 2018年6月8日: 第16回検討会(TaskForce会合)  お知らせ  「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   Webサイトを公開しました   "
+	"content": " Cryptoassets Governance Task Force (CGTF) Cryptoassets Governance Task Force (CGTF)は、正式な金融当局または自主規制団体による検討に先立ち、 セキュリティ専門家と仮想通貨交換業者の関係者で、利用者・消費者保護のリスク管理のための安全対策基準の策定を目的として設立された研究会です。\n目的 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定に資する先行的な取り組み、関連する規制、 国際標準、ベストプラクティスなどを整理することを通じ、実効性を有する安全対策基準の策定に資する技術情報の提供を目的とします。\n概要 Board of Trusteeを最終意思決定機関とし、個別テーマについて議論をするWorking Groupにより構成されています。\n運営方針 以下の3つの方針に基づき、運営しています。\n Neutrality / 中立性 Transparency / 透明性 Effectivity / 実効性  運営方針やBoTメンバーについては、CGTF Charter Documentをご覧ください。\nWorking Groups 2018年4月現在、以下のWorking Groupが設立されています。\n Security Working Group  これまでの活動  2018年2月8日: 第1回検討会(TaskForce会合) 2018年2月15日: 第2回検討会(TaskForce会合) 2018年2月21日: 第3回検討会(TaskForce会合) 2018年2月28日: 第4回検討会(TaskForce会合) 2018年3月8日: 第5回検討会(TaskForce会合) 2018年3月15日: 第6回検討会(TaskForce会合) 2018年3月22日: 第7回検討会(TaskForce会合) 2018年3月29日: 第8回検討会(TaskForce会合) 2018年4月6日: 第9回検討会(TaskForce会合) 2018年4月10日: 第1回Security WG作業部会 2018年4月13日: 第10回検討会(TaskForce会合) 2018年4月18日: 第2回Security WG作業部会 2018年4月20日: 第11回検討会(TaskForce会合) 2018年4月24日: 第3回Security WG作業部会 2018年4月27日: 第12回検討会(TaskForce会合) 2018年5月11日: 第13回検討会(TaskForce会合) 2018年5月15日: 第4回Security WG作業部会 2018年5月23日: 第14回検討会(TaskForce会合) 2018年5月25日: 第5回Security WG作業部会 2018年6月1日: 第15回検討会(TaskForce会合) 2018年6月6日: 第6回Security WG作業部会 2018年6月8日: 第16回検討会(TaskForce会合)  お知らせ  「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   本活動の名称変更について   Webサイトを公開しました   "
 },
 {
 	"uri": "/organization/privacynotice/",
 	"title": "Privacy Notice",
 	"tags": [],
 	"description": "",
-	"content": " Virtual Currency Governance Task Force Privacy Notice Virtual Currency Governance Task Force (以下我々) は、以下のポリシーで個人に関する情報を取り扱います。\n目的 情報を取得する目的は、当サイト利用者の傾向把握です。これは我々の活動がどのような方々に貢献出来ているのかを確認することが意図であり、それ以外の目的には使用しません。\n方針 一般的に許容されうる最低限の情報の取得に限定します。取得しなければしないほどより好ましいと我々は考えています。 広告は表示しません。また、取得したデータについても広告を含むすべての目的外利用には使用しません。\n実際に使用している仕組みとその設定 / Google Analyticsについて Google Analytics という Google 社のサービスを利用します。 利用者(あなた)の当サイトへのアクセスは Google Analytics を通じて収集され、その行動履歴が解析され統計情報として集計されます。 この Google Analytics はクッキーを使用して当サイトの利用者(あなた)をトラッキングしますが、我々は Google Analytics の利用において、アクセス履歴のGoogle社との共有を可能な限り制限しており、設定上は「共有しない」としています。 また、当サイトの管理者および Google 社は、この処理の過程で個々のアクセスからその利用者を特定することもありません。\nオプトアウト手段 それでもなお、これをプライバシー侵害と感じる人は、\u0026rdquo;Googleアナリティクスオプトアウトアドオン\u0026rdquo; ( https://tools.google.com/dlpage/gaoptout/ )を利用することで、それを防止することが出来ます。\n"
+	"content": " Cryptoassets Governance Task Force Privacy Notice Cryptoassets Governance Task Force (以下我々) は、以下のポリシーで個人に関する情報を取り扱います。\n目的 情報を取得する目的は、当サイト利用者の傾向把握です。これは我々の活動がどのような方々に貢献出来ているのかを確認することが意図であり、それ以外の目的には使用しません。\n方針 一般的に許容されうる最低限の情報の取得に限定します。取得しなければしないほどより好ましいと我々は考えています。 広告は表示しません。また、取得したデータについても広告を含むすべての目的外利用には使用しません。\n実際に使用している仕組みとその設定 / Google Analyticsについて Google Analytics という Google 社のサービスを利用します。 利用者(あなた)の当サイトへのアクセスは Google Analytics を通じて収集され、その行動履歴が解析され統計情報として集計されます。 この Google Analytics はクッキーを使用して当サイトの利用者(あなた)をトラッキングしますが、我々は Google Analytics の利用において、アクセス履歴のGoogle社との共有を可能な限り制限しており、設定上は「共有しない」としています。 また、当サイトの管理者および Google 社は、この処理の過程で個々のアクセスからその利用者を特定することもありません。\nオプトアウト手段 それでもなお、これをプライバシー侵害と感じる人は、\u0026rdquo;Googleアナリティクスオプトアウトアドオン\u0026rdquo; ( https://tools.google.com/dlpage/gaoptout/ )を利用することで、それを防止することが出来ます。\n"
 },
 {
 	"uri": "/contacts/",
@@ -40,6 +40,13 @@
 	"tags": [],
 	"description": "",
 	"content": "本タスクフォース Security Working Groupにて検討を進めて参りました、「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックドラフトを公開いたしました。\n"
+},
+{
+	"uri": "/news/20181228/",
+	"title": "本活動の名称変更について",
+	"tags": [],
+	"description": "",
+	"content": "Virtual Currency Governance Task ForceはCryptoassets Governance Task Forceと名称を変更いたしました。\n"
 },
 {
 	"uri": "/minutes/26_20180907/",
@@ -144,21 +151,21 @@
 	"title": "VCGTFについて",
 	"tags": [],
 	"description": "",
-	"content": " VCGTFとは Virtual Currency Governance Task Force (VCGTF)は、正式な金融当局または自主規制団体による検討に先立ち、 セキュリティ専門家と仮想通貨交換業者の関係者で、利用者・消費者保護のリスク管理のための安全対策基準の策定を目的として設立された研究会です。\n目的 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定に資する先行的な取り組み、関連する規制、 国際標準、ベストプラクティスなどを整理することを通じ、実効性を有する安全対策基準の策定に資する技術情報の提供を目的とします。\n概要 Board of Trusteeを最終意思決定機関とし、個別テーマについて議論をするWorking Groupにより構成されています。\n運営方針 以下の3つの方針に基づき、運営しています。\n Neutrality / 中立性 Transparency / 透明性 Effectivity / 実効性  Working Groups 2018年4月現在、以下のWorking Groupが設立されています。\n Security Working Group  これまでの活動  2018年2月8日: 第1回検討会(TaskForce会合) 2018年2月15日: 第2回検討会(TaskForce会合) 2018年2月21日: 第3回検討会(TaskForce会合) 2018年2月28日: 第4回検討会(TaskForce会合) 2018年3月8日: 第5回検討会(TaskForce会合) 2018年3月15日: 第6回検討会(TaskForce会合) 2018年3月22日: 第7回検討会(TaskForce会合) 2018年3月29日: 第8回検討会(TaskForce会合) 2018年4月6日: 第9回検討会(TaskForce会合) 2018年4月10日: 第1回Virtual Currency Security BCP Working Group作業部会 2018年4月13日: 第10回検討会(TaskForce会合) 2018年4月18日: 第2回Virtual Currency Security BCP Working Group作業部会 2018年4月20日: 第11回検討会(TaskForce会合)  "
+	"content": " CGTFとは Cryptoassets Governance Task Force (CGTF)は、正式な金融当局または自主規制団体による検討に先立ち、 セキュリティ専門家と仮想通貨交換業者の関係者で、利用者・消費者保護のリスク管理のための安全対策基準の策定を目的として設立された研究会です。\n目的 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定に資する先行的な取り組み、関連する規制、 国際標準、ベストプラクティスなどを整理することを通じ、実効性を有する安全対策基準の策定に資する技術情報の提供を目的とします。\n概要 Board of Trusteeを最終意思決定機関とし、個別テーマについて議論をするWorking Groupにより構成されています。\n運営方針 以下の3つの方針に基づき、運営しています。\n Neutrality / 中立性 Transparency / 透明性 Effectivity / 実効性  Working Groups 2018年4月現在、以下のWorking Groupが設立されています。\n Security Working Group  これまでの活動  2018年2月8日: 第1回検討会(TaskForce会合) 2018年2月15日: 第2回検討会(TaskForce会合) 2018年2月21日: 第3回検討会(TaskForce会合) 2018年2月28日: 第4回検討会(TaskForce会合) 2018年3月8日: 第5回検討会(TaskForce会合) 2018年3月15日: 第6回検討会(TaskForce会合) 2018年3月22日: 第7回検討会(TaskForce会合) 2018年3月29日: 第8回検討会(TaskForce会合) 2018年4月6日: 第9回検討会(TaskForce会合) 2018年4月10日: 第1回Virtual Currency Security BCP Working Group作業部会 2018年4月13日: 第10回検討会(TaskForce会合) 2018年4月18日: 第2回Virtual Currency Security BCP Working Group作業部会 2018年4月20日: 第11回検討会(TaskForce会合)  "
 },
 {
 	"uri": "/news/",
 	"title": "お知らせ",
 	"tags": [],
 	"description": "",
-	"content": "VCGTFの活動についてお知らせします。\n 「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   Webサイトを公開しました   "
+	"content": "CGTFの活動についてお知らせします。\n 「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   本活動の名称変更について   Webサイトを公開しました   "
 },
 {
 	"uri": "/minutes/",
 	"title": "議事録",
 	"tags": [],
 	"description": "",
-	"content": "VCGTFの過去議事録を掲載しています。\n 第26回議事録   第25回議事録   第19回議事録   第18回議事録   第17回議事録   第16回議事録   第15回議事録   第14回議事録   第13回議事録   第12回議事録   第11回議事録   第10回議事録   第9回議事録   第8回議事録   第7回議事録   第6回議事録   第5回議事録   第4回議事録   第3回議事録   第2回議事録   第1回議事録   "
+	"content": "CGTFの過去議事録を掲載しています。\n 第26回議事録   第25回議事録   第19回議事録   第18回議事録   第17回議事録   第16回議事録   第15回議事録   第14回議事録   第13回議事録   第12回議事録   第11回議事録   第10回議事録   第9回議事録   第8回議事録   第7回議事録   第6回議事録   第5回議事録   第4回議事録   第3回議事録   第2回議事録   第1回議事録   "
 },
 {
 	"uri": "/minutes/08_20180329/",
