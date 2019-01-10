@@ -42,6 +42,27 @@
 	"content": "Virtual Currency Governance Task Force(VCGTF)はCryptoassets Governance Task Force(CGTF)と名称を変更いたしました。\n"
 },
 {
+	"uri": "/minutes/33_20181130/",
+	"title": "第33回議事録",
+	"tags": [],
+	"description": "",
+	"content": " 概要  2018/11/30 8:00-9:30 参加者：楠、鈴木、菅原、佐藤，栗田、須賀、岡本、林、松尾、中島  agenda  Agenda Bashing, Note Taker Tasks \u0026amp; Issues Status update Security WG Item Tax-Pre WG 事務局移行とファインディングスキーム Inventory New WG Creation Discussion time Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1 Agenda Bashing, Note Taker  議事録：前回議事録はレビュー中  agenda2 Tasks \u0026amp; Issues  なし  agenda3 Status update  BoT  報告なし  リエゾン、関連団体進捗  金融庁  12月5日に勉強会開催。VCGTFからの参加メンバー確定。  Fintech協会  12月6日午前中に会議実施。参加メンバー概ね確定。  JBA  12月11日で確定。  3つの会議で話す内容の方向性を12月3日のSecWGで決める。   agenda4 SecWG  バンコクで開催されたIETF103において、ドラフトについて発表をした(資料)。セキュリティとガバナンスが混ざる話題については、IETFのスコープ外の可能性があるが、一方で無関心ではいられないということもある。当団体のアクションとしては興味を持つ人を募る。 ドキュメントについてのコメントは締め切った。英訳は1/3完了。  agenda5 Tax-Pre WG  進捗なし  agenda6 事務局移行とファインディングスキーム  任意団体設立のための口座開設の手続きに着手 組織名はCryptoassets Governance TaskForce（CGTF）に変更することに決定。本件に伴い正規の会員名簿を作成  agenda7 Inventories  JVCEA、ISO、 IETF、 金融庁、JBAに対するそれぞれのリエゾンメンバー確定。 会議でどのような話をするかを早々に決定。基本的には当団体を設立した背景やメンバー、活動内容を報告する。金融庁については踏み込んだ内容とする方向。  agenda8 New WG Creation  無し  agenda9 Discussion time  セキュリティマネジメントについて セキュリティマネジメントは事業者を守るためのものであることを理解する必要がある。 法規制とウォレット管理について ウォレットは免許なくエンジニアが作れるものであるから、法規制のスピードを考えると問題が起きる可能性があることを懸念。但し当面は取引所に紐づくウォレットが主であろう。 安全管理措置とKYCについて 技術的安全管理措置とKYCまでやることについてはレベルが違う。最終的には当局が求めるものは実態としてのAML/KYCと思われる。  agenda10 Next Meeting  12/14開催  "
+},
+{
+	"uri": "/minutes/32_20181116/",
+	"title": "第32回議事録",
+	"tags": [],
+	"description": "",
+	"content": " 概要  2018/11/16 8:00-9:30 参加者：楠、肥後、鈴木、菅原、佐藤，栗田、須賀、岡本、林 ゲスト：Philip Martin (Coinbase), Kitazawa Nao(Coinbase)  agenda  Agenda Bashing, Note Taker Guest dialogure with Coinbase VP of Security Tasks \u0026amp; Issues Status update Security WG Item Tax-Pre WG 事務局移行とファインディングスキーム Inventory New WG Creation Discussion time AOB / Housekeeping  議事サマリ agenda1 Agenda Bashing, Note Taker  意見なし  agenda2 Guest dialogure with Coinbase VP of Security  VCGTFの活動について概要紹介 仮想通貨交換業等に関する研究会での検討状況、FATF weekでの規律範囲の見直しについて情報共有。ウォレットの分類についてカストディ・ウォレットとオープン・ノードを分類し、前者に限定して規律すべきとの意見で一致 暗号通貨の取り扱いについて、禁止することはFATF勧告の趣旨に反するという意見で一致 今後の協力関係について快諾を得る  agenda3 Tasks and Issues  承認  agenda4 Status update  BoT  報告なし  リエゾン、関連団体進捗  JVCEA技術委員会  技術委員会発足。VCGTFからの出席メンバー確定  金融庁  金融庁モニタリング室勉強会は１２月６日の夕方で決定。SecWGメンバーも参加予定  Fintech協会  12/6午前中に会議実施。場所はおそらく茅場町。SecWGからの参加メンバー概ね確定  JBA  仮想通貨部門定例会議は12月11日で確定。テーマはガイドラインの説明と考えているが決まっているわけではない。VCGTFからも参加方向で調整    agenda5 Security WG  TRの方は年内にコメント処理を完了予定  agenda6 Tax-Pre WG  進捗なし  agenda7 事務局移行とファインディングスキーム  金融機関により必要書類が異なるため、まずは金融機関を確定した。今後、その金融機関に出向き必要書類を確認する。  agenda8 Inventories  JVCEAからリエゾン依頼あり。VCGTFからの参加メンバー概ね確定 JBAとのリエゾン関係について解決した。 下記文書についてはあまり詳しいことは記載されておらず、事務ガイドライン的な話であるため、VCGTFとしてコメントすることは無いと思われるので、有識者に相談する。https://www.amt-law.com/professionals/profile/KWK  agenda9 New WG Creation  WGのチャーター作る予定 交換業に関する研究会で10月のFATF勧告を受けて、急にウォレットに対して規制が入る可能性があるということで、コミュニティでハレーションが起きている アメリカやイギリスでやっているのはカストディアンウォレットの話。鍵管理を事業者でやっているケースとして規律を入れるという話で、パブリックノードに対してKYCかけるという話ではなさそう 日本語でウォレットの定義をすべき JDDでやってたモナコインの追跡の件にしては、10トランザクションのうち8トランザクションはElectramから来ていることがわかり、Electramのログが取れれば追える。パブリックノードに対してもログ記録ぐらいはしたほうが良いと思う 政府には、アメリカ、ヨーロッパの事例のようにレギュレートするならこの範囲という枠で事例を出せると説得力があるはず  agenda10 Discussion time  なし  agenda11 Next Meeting  11月30日、デロイトトーマツで開催 TaxWGはやり方を考える必要があるため12月以降に開催  "
+},
+{
+	"uri": "/minutes/31_20181102/",
+	"title": "第31回議事録",
+	"tags": [],
+	"description": "",
+	"content": " 概要  2018/11/02 8:00-9:30 参加者：楠、佐藤、川端、曾川、須賀、荻生、肥後，岡本、菅原、松尾、上原  agenda  Agenda Bashing, Note Taker Tasks \u0026amp; Issues Status update Security WG Item 事務局移行とファインディングスキーム Inventory New WG Creation Discussion time Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1 Agenda Bashing, Note Taker  意見なし  agenda2 Tasks \u0026amp; Issues  承認  agenda3 Status update  BoT  報告なし  リエゾン、関連団体進捗  金融庁  勉強会に出席。ICO、クラウドファンディングについて検討    agenda4 SecWG  ドキュメントをFISCの安全対策基準と突き合わせている。進捗は7割、8割。 FISCの安全対策基準にはあまり触れられていないが、マッピングできるところはマッピング済みのステータスとし、FISCの安全対策基準からそのまま反映できるところは反映し、不要なものはカットするという方法で作業する。 SecWGのドキュメントを引き続きセキュリティワーキンググループで検討するか、ISO TC307 WG2/JWG4の国内委員会で検討するか悩みどころではあるが、効率化を考えるとまとまって検討できるようプロジェクト化するのがよいと思われる。  agenda5 事務局移行とファインディングスキーム  事務局を立命館大学に移行できるかを上原先生が立命館大学の事務局に確認されたところ、受け入れは可能であり、運営についても立命館大学の支援が可能とのこと。但し、正式な受け入れは2019年以降となる見込みであるため、年内にまずは任意団体として登録する。 口座名義は立命館大学で開設可能。資金は各企業から集める。  agenda6 Inventories  なし  agenda7 New WG Creation  月曜夕方アカウンティングの準備会。クリプタクトの人が来られて、キックオフ。 1-2ヵ月で起動に乗せられるように進めたい。  agenda8 Discussion time  モナコインの怪しい動きの追跡を試み中。数億円の現金が盗まれた時は警察官１４万人が投入された。捜査に関わった人件費と比較した場合、仮想通貨はシステムで追跡でき、そういった費用が軽減されるというメリットがある 税と会計について検討が必要。どちらかというと会計の方が難しそうである。  agenda9 Task and To-Dos  JCBAに打診 ワーキンググループメンバー増強（FISC基準有識者追加） Virtual Currency Governance Task Force 運営費用の収集 アカウンティングワーキンググループを11月にもう一回開催  agenda10 AOB  なし  agenda11 Next Meeting  11\u0026frasl;16 @丸ビル  "
+},
+{
 	"uri": "/news/20181003/",
 	"title": "「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました",
 	"tags": [],
@@ -165,7 +186,7 @@
 	"title": "議事録",
 	"tags": [],
 	"description": "",
-	"content": "CGTFの過去議事録を掲載しています。\n 第26回議事録   第25回議事録   第19回議事録   第18回議事録   第17回議事録   第16回議事録   第15回議事録   第14回議事録   第13回議事録   第12回議事録   第11回議事録   第10回議事録   第9回議事録   第8回議事録   第7回議事録   第6回議事録   第5回議事録   第4回議事録   第3回議事録   第2回議事録   第1回議事録   "
+	"content": "CGTFの過去議事録を掲載しています。\n 第33回議事録   第32回議事録   第31回議事録   第26回議事録   第25回議事録   第19回議事録   第18回議事録   第17回議事録   第16回議事録   第15回議事録   第14回議事録   第13回議事録   第12回議事録   第11回議事録   第10回議事録   第9回議事録   第8回議事録   第7回議事録   第6回議事録   第5回議事録   第4回議事録   第3回議事録   第2回議事録   第1回議事録   "
 },
 {
 	"uri": "/minutes/08_20180329/",
