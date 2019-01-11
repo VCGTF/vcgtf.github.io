@@ -18,7 +18,7 @@
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": " Cryptoassets Governance Task Force (CGTF) Cryptoassets Governance Task Force (CGTF, 旧Virtual Currency Governance Task Force: VCGTF)は、 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定を目的として設立された研究会です。\n目的 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定に資する先行的な取り組み、関連する規制、 国際標準、ベストプラクティスなどを整理することを通じ、実効性を有する安全対策基準の策定に資する技術情報の提供を目的とします。\n概要 Board of Trusteeを最終意思決定機関とし、個別テーマについて議論をするWorking Groupにより構成されています。\n運営方針 以下の3つの方針に基づき、運営しています。\n Neutrality / 中立性 Transparency / 透明性 Effectivity / 実効性  運営方針やBoTメンバーについては、CGTF Charter Documentをご覧ください。\nWorking Groups 2018年4月現在、以下のWorking Groupが設立されています。\n Security Working Group  お知らせ  本活動の名称変更について   「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   Webサイトを公開しました   "
+	"content": " Cryptoassets Governance Task Force (CGTF) Cryptoassets Governance Task Force (CGTF, 旧Virtual Currency Governance Task Force: VCGTF)は、 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定を目的として設立された研究会です。\n目的 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定に資する先行的な取り組み、関連する規制、 国際標準、ベストプラクティスなどを整理することを通じ、実効性を有する安全対策基準の策定に資する技術情報の提供を目的とします。\n概要 Board of Trusteeを最終意思決定機関とし、個別テーマについて議論をするWorking Groupにより構成されています。\n運営方針 以下の3つの方針に基づき、運営しています。\n Neutrality / 中立性 Transparency / 透明性 Effectivity / 実効性  運営方針やBoTメンバーについては、CGTF Charter Documentをご覧ください。\nWorking Groups 2018年4月現在、以下のWorking Groupが設立されています。\n Security Working Group  お知らせ  General Security Considerations for Cryptoassets Custodiansを更新しました   本活動の名称変更について   「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   Webサイトを公開しました   "
 },
 {
 	"uri": "/organization/privacynotice/",
@@ -33,6 +33,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Loading... "
+},
+{
+	"uri": "/news/20181231/",
+	"title": "General Security Considerations for Cryptoassets Custodiansを更新しました",
+	"tags": [],
+	"description": "",
+	"content": "Security Working Groupにて検討してきました、 「仮想通貨交換所のセキュリティ対策についての考え方」についてのインターネットドラフト(インターネットに関する標準化団体であるIETFにおける標準化提案文書)の第3版(draft-vcgtf-crypto-assets-security-considerations-03)を投稿いたしました。\n本ドキュメントはIETFウェブサイトでご確認いただけます。\n"
 },
 {
 	"uri": "/news/20181228/",
@@ -179,7 +186,7 @@
 	"title": "お知らせ",
 	"tags": [],
 	"description": "",
-	"content": "CGTFの活動についてお知らせします。\n 本活動の名称変更について   「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   Webサイトを公開しました   "
+	"content": "CGTFの活動についてお知らせします。\n General Security Considerations for Cryptoassets Custodiansを更新しました   本活動の名称変更について   「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   Webサイトを公開しました   "
 },
 {
 	"uri": "/minutes/",
