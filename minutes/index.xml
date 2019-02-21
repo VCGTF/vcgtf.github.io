@@ -12,6 +12,37 @@
     
     
     <item>
+      <title>第37回議事録</title>
+      <link>/minutes/37_20190125/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/minutes/37_20190125/</guid>
+      <description> 概要  2019/01/25 8:00-9:30 参加者：林、荻生、中島、小渕、岡本、岩下、須賀、上原、楠、菅原、松尾、川畑  agenda  Agenda Bashing, Note Taker Tasks &amp;amp; Issues Status update Security WG Item Inventory Discussion time Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1 Agenda Bashing, Note Taker  アジェンダ確認。議事録担当確認。  agenda2 Tasks &amp;amp; Issues  なし  agenda3 Status update  BoT  報告なし  リエゾン、関連団体進捗  報告なし   agenda4 SecWG BOTの先生方よりCGTFの2018年の活動及び作成したドキュメントについて称賛のコメント受領。
+本会の活動は金融庁にも認識いただけるようになってきており、暗号通貨セキュリティ基準に関しては、本会で作成したドキュメント程整備されているものは見受けられず、今後作成されるであろう公的文書のベースとなり得る。
+但し、文書の権利関係の問題には留意して進めるべきであり、直近ではJVCEAとの会合を持ち、JVCEAとCGTFの役割分担を決める。 CGTFの認知度向上のため、CGTFに関する説明資料は必要に応じて各種機関に積極的に提示していく。 BOTの先生方が関係省庁や国際的な会合でお話される際にもご利用いただけるようCGTFメンバーで文書を整備する。
+課題としては、CGTFが認知され、成果を出すに伴い、CGTFの作業量が多くなって来ておりリソース確保の問題が生じる可能性あり。 財源の確保、手を動かすことのできるエキスパートの確保が急務
+agenda5 Inventories  本会の財源を公的に確保するために、任意団体の役員を早々に決定する必要あり。本会の代表である上原先生主導にてメンバーをアサインする。適宜Slackでやり取りして決める。  agenda6 Discussion time  なし  agenda7 Next Meeting  2月8日 2月22日 3月8日 3月22日  </description>
+    </item>
+    
+    <item>
+      <title>第36回議事録</title>
+      <link>/minutes/36_20190111/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/minutes/36_20190111/</guid>
+      <description>概要  2019/01/11 8:00-9:30 参加者：楠、荻生、鈴木、中島、栗田、小渕、林、須賀、佐藤、菅原、岡本、松尾、川畑  agenda  Agenda Bashing, Note Taker Tasks &amp;amp; Issues Status update Security WG Item Inventory New WG Creation Discussion time Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1 Agenda Bashing, Note Taker  意見なし  agenda2 Tasks &amp;amp; Issues  2018年11月から12月までの議事録確認完了。Web公開OK  agenda3 Status update  BoT  報告なし  リエゾン、関連団体進捗  金融庁  アップデート無し  JVCEA  1月15日　技術委員会でCGTFよりリファレンスアーキテクチャ、基本モデル図、鍵のライフサイクルの話をする    agenda4 SecWG セキュリティに関する文書の英訳作業を2018年末までに実施。</description>
+    </item>
+    
+    <item>
+      <title>第35回議事録</title>
+      <link>/minutes/35_20181228/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/minutes/35_20181228/</guid>
+      <description>概要  2018/12/28 8:00-9:30 参加者：楠、佐藤、荻生、鈴木、中島、栗田、岡本、菅原、松尾、須賀、林  agenda  Agenda Bashing, Note Taker Tasks &amp;amp; Issues Status update Security WG Item Tax-Pre WG 事務局移行とファインディングスキーム Inventory New WG Creation Discussion time Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1 Agenda Bashing, Note Taker  意見なし  agenda2 Tasks &amp;amp; Issues  議事録: #31, #32, #33 議事録サマリーレビュー完了  agenda3 Status update  BoT  報告なし  リエゾン、関連団体進捗  金融庁  アップデート無し  JVCEA  技術委員会があり委員長にBitFlyer小宮山様が就任。基本的にはCGTFで作成した文書を元に安全管理措置のドキュメントを作る方向。必要に応じてCGTFとしても関わりを持っていく。  警察庁  不正アドレスの共有について情報交換    agenda4 SecWG 日本語版のドキュメントは完成しつつある状況</description>
+    </item>
+    
+    <item>
       <title>第33回議事録</title>
       <link>/minutes/33_20181130/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0900</pubDate>
