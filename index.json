@@ -7,11 +7,25 @@
 	"content": " Overview / Abst 暗号資産・仮想通貨 (Cryptoassets / Virtual Currency) の認知が急速に拡大している一方、大規模なセキュリティインシデントが発生するなど、利用者保護が喫緊の課題とされている。 仮想通貨交換業関係者に留まらずセキュリティ専門家を含む多様な立場から、情報セキュリティのための知見の集約を通じて、基準等の策定に資する技術情報を提供することにより、仮想通貨交換業のセキュリティの底上げを図り、 利用者保護に寄与する。\nStructure 本タスクフォースの意思決定は、Board of Trustees(BoT)の合議による。 個別テーマについては、Working Groupを設置する。 Working GroupはTFメンバーがCharterとChair候補を提案し、BoTが承認する。 最終成果物は全てタスクフォース文書として公開する。\nBoard of Trustees members (Aiueo-order)  岩下直行 教授 (京都大学) (任期: 2018年1月-2020年12月) 上原哲太郎 教授 (立命館大学) (任期: 2018年1月-2020年12月) 松尾真一郎 教授 (ジョージタウン大学) (任期: 2018年1月-2020年12月)  General Policy  Neutrality / 中立性 仮想通貨交換事業者にとどまらず、学術・セキュリティ専門家など、多面的な視点から本問題について取り組む Transparency / 透明性 本TFで策定する文書、議事録などを広く一般に提供することにより、透明性が担保されたTF運営を目指す Effectivity / 実効性 本TFの成果について、標準化機関等での国内外の専門家による知見の反映を通じ、実務に資するドキュメントの作成を目指す。  Scope  仮想通貨に関する中立的組織として安全対策に資する情報の提供  Out of Scope (重要)  制度および自主規制の施行に関わる事項  Goals Phase, and Milestones 当面は2018年7月までに下記文書を作成する。 - 仮想通貨交換業者の安全対策における基本的な考え方(仮)（2018年7月） - IETFへのInternet Draftのsubmission - ISO TC307へのTechnical Reportのsubmission\n"
 },
 {
+	"uri": "/organization/",
+	"title": "CGTFについて",
+	"tags": [],
+	"description": "",
+	"content": " CGTFとは Cryptoassets Governance Task Force (CGTF)は、正式な金融当局または自主規制団体による検討に先立ち、 セキュリティ専門家と仮想通貨交換業者の関係者で、利用者・消費者保護のリスク管理のための安全対策基準の策定を目的として設立された研究会です。\n目的 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定に資する先行的な取り組み、関連する規制、 国際標準、ベストプラクティスなどを整理することを通じ、実効性を有する安全対策基準の策定に資する技術情報の提供を目的とします。\n概要 Board of Trusteeを最終意思決定機関とし、個別テーマについて議論をするWorking Groupにより構成されています。\n運営方針 以下の3つの方針に基づき、運営しています。\n Neutrality / 中立性 Transparency / 透明性 Effectivity / 実効性  Working Groups 2018年4月現在、以下のWorking Groupが設立されています。\n Security Working Group  これまでの活動  2018年2月8日: 第1回検討会(TaskForce会合) 2018年2月15日: 第2回検討会(TaskForce会合) 2018年2月21日: 第3回検討会(TaskForce会合) 2018年2月28日: 第4回検討会(TaskForce会合) 2018年3月8日: 第5回検討会(TaskForce会合) 2018年3月15日: 第6回検討会(TaskForce会合) 2018年3月22日: 第7回検討会(TaskForce会合) 2018年3月29日: 第8回検討会(TaskForce会合) 2018年4月6日: 第9回検討会(TaskForce会合) 2018年4月10日: 第1回Virtual Currency Security BCP Working Group作業部会 2018年4月13日: 第10回検討会(TaskForce会合) 2018年4月18日: 第2回Virtual Currency Security BCP Working Group作業部会 2018年4月20日: 第11回検討会(TaskForce会合)  "
+},
+{
 	"uri": "/organization/members/",
 	"title": "メンバー",
 	"tags": [],
 	"description": "",
 	"content": " Board of Trustee  岩下直行 (京都大学) 上原哲太郎 (立命館大学) 松尾真一郎 (ジョージタウン大学)  Working Groups Security Working Group  Chairs  楠正憲 (Japan Digital Design株式会社) 松本泰 (セコム株式会社 IS研究所) 崎村夏彦 (株式会社野村総合研究所)  Editors  佐藤雅史 (セコム株式会社 IS研究所) 島岡政基 (セコム株式会社 IS研究所)  Members  川畑雄補 (株式会社アプルーシッド) 小宮山峰史 (株式会社bitFlyer) 志茂博 (コンセンサス・ベイス株式会社) 須賀祐治 (株式会社インターネットイニシアティブ) 杉井靖典 (カレンシーポート株式会社) 中島博敬 (株式会社メルカリ) 林達也 (株式会社レピダム) 樋田桂一 (一般社団法人 日本ブロックチェーン協会)   Acknowledgement Task Forceの運営に貢献された方を載せております。(順不同)\n 上原哲太郎 小宮山峰史 楠正憲 中島博敬 崎村夏彦 岩下直行 小川晃平 肥後彰秀 杉井靖典 須賀祐治 松本泰 佐藤雅史 島岡政基 丸山満彦 荻生泰之 林達也 志茂博 Paya Do 岡本ゆかり  "
+},
+{
+	"uri": "/news/",
+	"title": "お知らせ",
+	"tags": [],
+	"description": "",
+	"content": "CGTFの活動についてお知らせします。\n General Security Considerations for Cryptoassets Custodiansを更新しました   本活動の名称変更について   「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   Webサイトを公開しました   "
 },
 {
 	"uri": "/",
@@ -21,18 +35,18 @@
 	"content": " Cryptoassets Governance Task Force (CGTF) Cryptoassets Governance Task Force (CGTF, 旧Virtual Currency Governance Task Force: VCGTF)は、 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定を目的として設立された研究会です。\n目的 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定に資する先行的な取り組み、関連する規制、 国際標準、ベストプラクティスなどを整理することを通じ、実効性を有する安全対策基準の策定に資する技術情報の提供を目的とします。\n概要 Board of Trusteeを最終意思決定機関とし、個別テーマについて議論をするWorking Groupにより構成されています。\n運営方針 以下の3つの方針に基づき、運営しています。\n Neutrality / 中立性 Transparency / 透明性 Effectivity / 実効性  運営方針やBoTメンバーについては、CGTF Charter Documentをご覧ください。\nWorking Groups 2018年4月現在、以下のWorking Groupが設立されています。\n Security Working Group  お知らせ  General Security Considerations for Cryptoassets Custodiansを更新しました   本活動の名称変更について   「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   Webサイトを公開しました   "
 },
 {
+	"uri": "/publication/",
+	"title": "Publications",
+	"tags": [],
+	"description": "",
+	"content": " CGTFでは活動の一環として、暗号資産に関する調査・研究を実施しております。 ここではCGTFの論文・調査レポートについて掲載します。\nディスカッション・ペーパー ディスカッション・ペーパーはCGTFのメンバーによる研究・調査成果を公表するための論文シリーズです。\nディスカッション・ペーパーで述べられている見解は著者の責任において発表されるものであり、CGTFとしての見解・立場及び著者の所属組織の見解・立場を示すものではありません。\nまた、ディスカッション・ペーパーは事前の予告なしに改定される可能性があります。\n 日本国内における仮想通貨ウォレットの実態調査\n栗田 青陽, 2019年3月14日  国際標準化提案  Sato, M., Shimaoka, M., and Nakajima, H., \u0026ldquo;General Security Considerations for Cryptoassets Custodians\u0026rdquo;, draft-vcgtf-crypto-assets-security-considerations-03 (work in progress), Jan 2019. Nakajima, H., Kusunoki, M., Hida, K., Suga, Y., and T.Hayashi, \u0026ldquo;Terminology for Crypto Asset\u0026rdquo;, draft-nakajima-crypto-asset-terminology-01 (work in progress), Dec 2018.  "
+},
+{
 	"uri": "/organization/privacynotice/",
 	"title": "Privacy Notice",
 	"tags": [],
 	"description": "",
 	"content": " Cryptoassets Governance Task Force Privacy Notice Cryptoassets Governance Task Force (以下我々) は、以下のポリシーで個人に関する情報を取り扱います。\n目的 情報を取得する目的は、当サイト利用者の傾向把握です。これは我々の活動がどのような方々に貢献出来ているのかを確認することが意図であり、それ以外の目的には使用しません。\n方針 一般的に許容されうる最低限の情報の取得に限定します。取得しなければしないほどより好ましいと我々は考えています。 広告は表示しません。また、取得したデータについても広告を含むすべての目的外利用には使用しません。\n実際に使用している仕組みとその設定 / Google Analyticsについて Google Analytics という Google 社のサービスを利用します。 利用者(あなた)の当サイトへのアクセスは Google Analytics を通じて収集され、その行動履歴が解析され統計情報として集計されます。 この Google Analytics はクッキーを使用して当サイトの利用者(あなた)をトラッキングしますが、我々は Google Analytics の利用において、アクセス履歴のGoogle社との共有を可能な限り制限しており、設定上は「共有しない」としています。 また、当サイトの管理者および Google 社は、この処理の過程で個々のアクセスからその利用者を特定することもありません。\nオプトアウト手段 それでもなお、これをプライバシー侵害と感じる人は、\u0026rdquo;Googleアナリティクスオプトアウトアドオン\u0026rdquo; ( https://tools.google.com/dlpage/gaoptout/ )を利用することで、それを防止することが出来ます。\n"
-},
-{
-	"uri": "/contacts/",
-	"title": "問い合わせ",
-	"tags": [],
-	"description": "",
-	"content": "Loading... "
 },
 {
 	"uri": "/minutes/37_20190125/",
@@ -196,18 +210,11 @@
 	"content": " 概要  2018/04/06 8:00-9:30 参加者：楠，崎村，中島，島岡，須賀，佐藤，肥後，萩生，樋田，杉井，小川，曽川, 松尾，志茂，岩下，上原  agenda  Agenda Bashing, Note Taker 過去議事録の確認・承認 Status update TF Site Publish plan Security WG Item AOB / Housekeeping Tasks and To-Dos  議事サマリ agenda1 Agenda Bashing, Note Taker  意見なし  agenda2 過去議事録の確認・承認  承認  agenda3 ステータスupdate  TF進捗：なし WG進捗：  インシデント収集中。来週F2Fで集まり議論する。  リエゾン、関連団体：  金融庁の検討会：開始が発表された ISO：  完成度50%ぐらいだがロンドン会議で議論するためのドラフトが提出された。並行してコントリビューションを受け付けている。 仮想通貨交換業者のセキュリティだけに特化して取り組むなら、SC27で議論をしたほうが早いのではないかという案もある。  ISOでの進め方について  一度ISOでドキュメントを提出してしまうとDISとなるまで公開できない。また、利用の目的に制限がある。 文書の作成はIETFなどで進めておき、それをISOにimportするという仕組みにすると柔軟性が高くなるのではないか。  JISの原案作成委員会のようなものを作るのはどうか  参照目的は制限されそう カタカナ語が使えないなどの制約がかなり大きい。    agenda4. Site Publish Plan  議案  前回の議論に加え、加える/減らすがあれば議論したい  議論  コンテンツがあることよりも、出すことが重要 サイトの叩きを簡単に作成し、埋める必要がある箇所を共有する。 再来週公開を目指す   agenda5 secWG  議案  進捗は前述の通り。  議論  以下を決議。TFのBoTで承認。  エディタ選任　佐藤、島岡 WGメンバーはWGチェアが承認すればメンバーになる    agenda フリーディスカッション  議案  2,3年後にどういう世界になっていたらこの活動が成功といえるのか。または、2,3年後のイメージ。  議論  交換所・取引所  現状、申請中のところも取引所形態は、数社〜数十社の大手に収斂するのでは。 世界的なコモディティを扱うところは世界でも収斂していく  発行体  ゲーム業界、エンタメ業界が増えそう 目的自体がコンパクトな登録が増え、お金もある、体制は整えられるところが残る。  消費者保護  守るべきルール(守るべきもの・こと)の差が生じると思うか。 (消費者の)利便性を考えるので、間接的には消費者保護にはなっている  構成する技術要素  パブリックなのか、プライベートなのか、でいうとハイブリッドになるだろう。 新規に企画して立ち上がるものは、Bcファーストになるのではないか。  業態の広がりと、この会のスコープ  従来の取引所のセキュリティの話から始まっているので、ph1,2はそこに絞ってしっかりしたクオリティのものを出すことに集中した方が良いのではないか。 トークンであっても秘密鍵の管理と、ブロックチェーン上のコインをどう管理するかの2つ。取引所以外にも広げないと意味がない 業態を限定せず利用できるインターインダストリー標準とすべき。 業態は広がるが、そこで扱うものが仮想通貨と定義されるものであり、流通させるためには、ライセンスが必要、つまりライセンスの事業者というところがスコープである。  鍵管理の主体、業態の分類  トークンをやりたいと思っているのは、ゲーム業界に加え、広告業界、流通業界。ユーザーが鍵管理をする必要がある。 特性としては、他人から預かったものに対して、預かったものに対する(他人の)秘密鍵の管理というのがメルクマールではないか。 鍵管理代行事業者ということか？ (事業者の)秘密鍵で他人の資産を保全するのと、人の鍵自体を預かるの、の2分類ある。 顧客の鍵そのものを預かるパターンは、今は(ph1の)スコープから外している。 鍵のオーナーが誰かでモデルが違う 技術革新もある。秘密分散を使うと、1つの鍵を非活性化した状態で安全に持ち合うことができるようになる。応用されていくと、誰が鍵を持っているのか？という点はありながらも、その人1人の権限ではどうにもならない、という状態を作ることもできるようになる。    agenda7 TaskとToDo  来週までにサイトを皆で確認できるところまで持っていくために、項目を埋めたり、パブリッシュ手前まで持っていく WGが火曜日に作業時間を確保。  agenda6 AOB  なし  "
 },
 {
-	"uri": "/organization/",
-	"title": "CGTFについて",
+	"uri": "/contacts/",
+	"title": "問い合わせ",
 	"tags": [],
 	"description": "",
-	"content": " CGTFとは Cryptoassets Governance Task Force (CGTF)は、正式な金融当局または自主規制団体による検討に先立ち、 セキュリティ専門家と仮想通貨交換業者の関係者で、利用者・消費者保護のリスク管理のための安全対策基準の策定を目的として設立された研究会です。\n目的 正式な金融当局または自主規制団体による検討に先立ち、セキュリティ専門家と仮想通貨交換業者の関係者で、 利用者・消費者保護のリスク管理のための安全対策基準の策定に資する先行的な取り組み、関連する規制、 国際標準、ベストプラクティスなどを整理することを通じ、実効性を有する安全対策基準の策定に資する技術情報の提供を目的とします。\n概要 Board of Trusteeを最終意思決定機関とし、個別テーマについて議論をするWorking Groupにより構成されています。\n運営方針 以下の3つの方針に基づき、運営しています。\n Neutrality / 中立性 Transparency / 透明性 Effectivity / 実効性  Working Groups 2018年4月現在、以下のWorking Groupが設立されています。\n Security Working Group  これまでの活動  2018年2月8日: 第1回検討会(TaskForce会合) 2018年2月15日: 第2回検討会(TaskForce会合) 2018年2月21日: 第3回検討会(TaskForce会合) 2018年2月28日: 第4回検討会(TaskForce会合) 2018年3月8日: 第5回検討会(TaskForce会合) 2018年3月15日: 第6回検討会(TaskForce会合) 2018年3月22日: 第7回検討会(TaskForce会合) 2018年3月29日: 第8回検討会(TaskForce会合) 2018年4月6日: 第9回検討会(TaskForce会合) 2018年4月10日: 第1回Virtual Currency Security BCP Working Group作業部会 2018年4月13日: 第10回検討会(TaskForce会合) 2018年4月18日: 第2回Virtual Currency Security BCP Working Group作業部会 2018年4月20日: 第11回検討会(TaskForce会合)  "
-},
-{
-	"uri": "/news/",
-	"title": "お知らせ",
-	"tags": [],
-	"description": "",
-	"content": "CGTFの活動についてお知らせします。\n General Security Considerations for Cryptoassets Custodiansを更新しました   本活動の名称変更について   「仮想通貨交換所のセキュリティ対策についての考え方」について、パブリックコメントを開始しました   Webサイトを公開しました   "
+	"content": "Loading... "
 },
 {
 	"uri": "/minutes/",

@@ -8,8 +8,18 @@
   </url>
   
   <url>
+    <loc>/organization/</loc>
+    <lastmod>2018-04-06T18:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/organization/members/</loc>
     <lastmod>2018-04-06T16:19:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2018-04-06T18:20:39+09:00</lastmod>
   </url>
   
   <url>
@@ -18,13 +28,13 @@
   </url>
   
   <url>
-    <loc>/organization/privacynotice/</loc>
-    <lastmod>2018-06-18T08:45:37+09:00</lastmod>
+    <loc>/publication/</loc>
+    <lastmod>2019-03-14T09:01:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/contacts/</loc>
-    <lastmod>2018-04-06T18:30:23+09:00</lastmod>
+    <loc>/organization/privacynotice/</loc>
+    <lastmod>2018-06-18T08:45:37+09:00</lastmod>
   </url>
   
   <url>
@@ -143,13 +153,8 @@
   </url>
   
   <url>
-    <loc>/organization/</loc>
-    <lastmod>2018-04-06T18:25:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/</loc>
-    <lastmod>2018-04-06T18:20:39+09:00</lastmod>
+    <loc>/contacts/</loc>
+    <lastmod>2018-04-06T18:30:23+09:00</lastmod>
   </url>
   
   <url>

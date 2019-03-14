@@ -46,15 +46,6 @@ Board of Trustees members (Aiueo-order)  岩下直行 教授 (京都大学) (任
     </item>
     
     <item>
-      <title>問い合わせ</title>
-      <link>/contacts/</link>
-      <pubDate>Fri, 06 Apr 2018 18:30:23 +0900</pubDate>
-      
-      <guid>/contacts/</guid>
-      <description>Loading... </description>
-    </item>
-    
-    <item>
       <title>第37回議事録</title>
       <link>/minutes/37_20190125/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0900</pubDate>
@@ -264,6 +255,15 @@ agenda5 Inventories  本会の財源を公的に確保するために、任意�
       
       <guid>/minutes/09_20180406/</guid>
       <description>概要  2018/04/06 8:00-9:30 参加者：楠，崎村，中島，島岡，須賀，佐藤，肥後，萩生，樋田，杉井，小川，曽川, 松尾，志茂，岩下，上原  agenda  Agenda Bashing, Note Taker 過去議事録の確認・承認 Status update TF Site Publish plan Security WG Item AOB / Housekeeping Tasks and To-Dos  議事サマリ agenda1 Agenda Bashing, Note Taker  意見なし  agenda2 過去議事録の確認・承認  承認  agenda3 ステータスupdate  TF進捗：なし WG進捗：  インシデント収集中。来週F2Fで集まり議論する。  リエゾン、関連団体：  金融庁の検討会：開始が発表された ISO：  完成度50%ぐらいだがロンドン会議で議論するためのドラフトが提出された。並行してコントリビューションを受け付けている。 仮想通貨交換業者のセキュリティだけに特化して取り組むなら、SC27で議論をしたほうが早いのではないかという案もある。  ISOでの進め方について  一度ISOでドキュメントを提出してしまうとDISとなるまで公開できない。また、利用の目的に制限がある。 文書の作成はIETFなどで進めておき、それをISOにimportするという仕組みにすると柔軟性が高くなるのではないか。  JISの原案作成委員会のようなものを作るのはどうか  参照目的は制限されそう カタカナ語が使えないなどの制約がかなり大きい。    agenda4.</description>
+    </item>
+    
+    <item>
+      <title>問い合わせ</title>
+      <link>/contacts/</link>
+      <pubDate>Fri, 06 Apr 2018 18:30:23 +0900</pubDate>
+      
+      <guid>/contacts/</guid>
+      <description>Loading... </description>
     </item>
     
     <item>
