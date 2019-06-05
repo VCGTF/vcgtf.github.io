@@ -12,6 +12,72 @@
     
     
     <item>
+      <title>第43回議事録</title>
+      <link>/minutes/43_20190419/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/minutes/43_20190419/</guid>
+      <description> 概要  2019/04/19 8:00-9:30 参加者：鈴木、荻生、中島、菅原、栗田、楠、林、上原、松尾、岡本、須賀  agenda  Tasks &amp;amp; Issues Status update Security WG Inventories Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1: Tasks &amp;amp; Issues  過去議事録の確認  No.41までの承認を実施   agenda2: Status update  JVCEA技術委員会  4月末週、JVCEAと金融庁モニタリング室の打合せがあり、CGTFからも参加。CGTFで作成したドキュメントも含めて議論予定。  金融庁  モニタリング室と情報交換。CGTFで作成したチェックリストがどのようなステップで自主規制に紐づいて行くのかを見える化する必要があり、引き続き情報交換していくことになった。  JCBA  4&amp;frasl;15 勉強会が開催され、CGTFも参加し活動状況を説明。CGTFの活動に賛同をいただいた。  事務局  立命館大学で2019年度の組織に関する会議が4月末に行われる予定。事務局移管を進められるのはそれ以降。事務局自体の再編成案は引き続き整備する。  コンセンサス2019  5/13からニューヨークで開催されるコンセンサス2019にて松尾先生がCGTFの活動をプレゼン。   agenda3: Security WG  菅原氏作成のセキュリティ基準対応案AからFについて概ね完了。順次対応案について確認を進め、完了後に全体的に整合性を確認し、JVCEAや他関係機関に共有する予定。  agenda4: Inventories  管理会計、ホットウォレットのアドレス管理及び警察との連携などの対応を進めるため、5月に集中的に議論する場を儲ける。  agenda5: Next Meeting  2019/05/10 08:00-09:30 TF Meeting @ 東京ミッドタウン日比谷  </description>
+    </item>
+    
+    <item>
+      <title>第42回議事録</title>
+      <link>/minutes/42_20190405/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/minutes/42_20190405/</guid>
+      <description> 概要  2019/04/05 8:00-9:30 参加者：楠、鈴木、荻生、森下、栗田、須賀、森下、岡本、林、中島、上原  agenda  Tasks &amp;amp; Issues Status update Security WG Inventories Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1: Tasks &amp;amp; Issues  過去議事録の確認  No.41までの承認を実施   agenda2: Status update  JVCEA技術委員会  CGTFの考えとJVCEAのセキュリティ基準に関する考えは概ね合意が取れた。課題としてはコールドウォレットの定義の明文化。  FATFパブコメ対応  FATFのパブリックコメントをどうしていくか引き続き検討する。  JCBA  JCBAの依頼で、4/15 16:00-18:00、東京大学にて実務に携わる方向けにCGTFより説明会を行う予定。  事務局  再構成案初回レビュー。立命館大学の組織構成と整合をとる必要があるため、立命館大学に確認する。   agenda3: Security WG  菅原氏作成のセキュリティ基準対応案AからFについて、鋭意確認中。  agenda4: Inventories  IETFとの関係性を整理する。事務局や先生方に相談要。  agenda5: Next Meeting  2019/04/19 08:00-09:30 TF Meeting @ 東京ミッドタウン日比谷 2019/05/10 08:00-09:30 TF Meeting @ 東京ミッドタウン日比谷  </description>
+    </item>
+    
+    <item>
+      <title>第41回議事録</title>
+      <link>/minutes/41_20190322/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/minutes/41_20190322/</guid>
+      <description> 概要  2019/03/22 8:00-9:30 参加者：上原、楠、佐藤、荻生、鈴木、小渕、岡本、森下、菅原、中島、須賀  agenda  Tasks &amp;amp; Issues Status update Security WG Inventories Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1: Tasks &amp;amp; Issues  JVCEA技術委員会  チェックリストを3月末から４月初旬に公開予定。CGTFからいくつかコメントを出している。 ホット/コールドウオレットについてCGTFの文書をベースにJVCEAで用語集を作成中。変更点についてはCGTFでも確認予定。  金融庁  栗田氏作成のカストディのレポートをご認識いただきいた。 暗号資産に携わる人員の育成は厳しいので、どのように強化していくかが課題ではなかろうか。  日本国内における仮想通貨ウォレット業務の実態調査 承認完了。  ホット／コールド比率が出されているが、議論すべき点はリスクの高いウォレットに対する対応であることを忘れてはならない。  40回までの議事録を確認。  agenda2: Status update  事務局
+構成員決定。今後、事務局とBOT、CGTFChairの権限分けを明確化。  ※監査役については引き続き承認中。
+agenda3: Security WG  ターミノロジー、IETFの文書の更新はこれから実施。 栗田氏のレポートは無事公開済み。 菅原氏のセキュリティ基準案は予定通り進行中。  agenda4: Inventories  JCBA勉強会で本日18:00から活動内容について話す予定。 JCBAとの議論は終わっており、ドキュメントもほぼ完成。立命館大学への事務局移管は5月くらいと見えて来たのでCGTFの当初の目的は達成。今後の活動方針と体制を改めて検討する。  agenda5: Next Meeting  2019/04/05 08:00-09:30 TF Meeting @ 東京ミッドタウン日比谷 2019/04/19 08:00-09:30 TF Meeting @ 東京ミッドタウン日比谷  </description>
+    </item>
+    
+    <item>
+      <title>第40回議事録</title>
+      <link>/minutes/40_20190308/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/minutes/40_20190308/</guid>
+      <description> 概要  2019/03/08 8:00-9:30 参加者：栗田、小渕、佐藤、鈴木、荻生、川畑、岡本、楠、中島、林、須賀、上原  agenda  Milestone Overview Tasks &amp;amp; Issues Status update Security WG Inventories Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1: Milestone Overview  JVCEA技術委員会
+3月5日に実施。CGTFドキュメントから作成したチェックリスト案の議論、公表文案、用語の定義が示された。今後、提示文については引き続きで議論し、次回（19日）に最終決定予定。 金融庁
+来週面談予定。  agenda2: Tasks &amp;amp; Issues  日本国内における仮想通貨ウォレット業務の実態調査 レビュー中 39回までの議事録承認済み。公開に向けて準備予定。  agenda3: Status update  JVCEA
+議事録、資料の共有 金融庁
+来週、カストディアンの実態調査報告予定 事務局
+構成員決定。今後、事務局とBOT、CGTFChairの権限分けを明確化
+※監査役については変更の可能性あり。  agenda4: Security WG  基準案６項目を作成。今後SecWGでブラッシュアップ  暗号資産カストディアンのセキュリティ対策についての考え方 General Security Considerations for Crypto Assets Exchange Terminology for Crypto Asset Guideline 案 日本国内における仮想通貨ウォレット業務の実態調査 対策案   agenda5: Inventories  セキュリティに関する基準案を3月末までに作成予定。 警察連携、ホット/コールドウォレットの定義、標準化動向、会計及び税務処理に関する議論を再始動予定。  agenda6: Next Meeting  2019/03/22 08:00-09:30 TF Meeting @ 東京ミッドタウン日比谷 2019/04/05 08:00-09:30 TF Meeting @ 東京ミッドタウン日比谷  </description>
+    </item>
+    
+    <item>
+      <title>第39回議事録</title>
+      <link>/minutes/39_20190222/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/minutes/39_20190222/</guid>
+      <description> 概要  2019/02/22 8:00-9:30 参加者：楠、上原、中島、栗田、岡本、林、森下、佐藤、須賀、川畑、松尾  agenda  Milestone Overview Tasks &amp;amp; Issues Status update Discussion time Security WG Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1: Milestone Overview  前回打合せまでの議事録確認実施  agenda2: Tasks &amp;amp; Issues  JVCEA技術委員会
+2月中にCGTF文書を元にしたチェックリストのドラフト版を作成予定。3月から4月にかけて、チェックリストの具体的な方向性を検討。チェックリストについてはいくつかCGTFの考えているところとは異なる意見が出ており、JVCEAと引き続き議論して行く。その他、CGTF同様にウォレットのホット/コールドの定義の明確化についての議論あり。 金融庁
+アポイント設定中。  agenda3: Status update  本会に関する任意団体の役職及び担当は概ね確定。４月半ばを目標に立命館大学への移管を準備中。  agenda4: Discussion time  暗号資産に関し、信託としてどのように扱うのか、マネーロンダリングを防止するためにKYCをどのように適用するのかを討議。 暗号資産のブロックに適切でないデータの書き込みを抑制することが難しい前提でのコンプライアンスの在り方を討議。  agenda5: SecWG 暗号資産セキュリティ基準に関するドキュメント整備中。FISCガイドライン対応案も並行して実施中。
+agenda6: Next Meeting  2019/03/08 08:00-09:30 TF Meeting @ TBD 2019/03/22 08:00-09:30 TF Meeting @ TBD  </description>
+    </item>
+    
+    <item>
+      <title>第38回議事録</title>
+      <link>/minutes/38_20190208/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/minutes/38_20190208/</guid>
+      <description> 概要  2019/02/08 8:00-9:30 参加者：楠、菅原、鈴木、川端、花村、中島、岡本、松尾、佐藤、須賀  agenda  Milestone Overview Tasks &amp;amp; Issues Status update Security WG Discussion time Tasks and To-Dos AOB / Housekeeping  議事サマリ agenda1: Milestone Overview  CGTFのテクニカルレポートは公開済み。他はスケジュールに従い対応。  agenda2: Tasks &amp;amp; Issues  35回から37回の議事録の整備完了。最終確認後、2/13公開予定。  agenda3: Status update  2/6JVCEAの技術委員会に参加。JVCEAが作成しようとしているセキュリティ基準に関するドキュメントの範囲とCGTFが作成しているドキュメントの範囲にギャップがあり擦り合わせが必要。 ISOとIETFに対してCGTFのドキュメントを共有しているが、それぞれ別に進むと分離していくので、どちらかがマスターとなるようにCGTFから双方に対して調整していく必要がある。 金融庁との打合せを近々設定する 立命館大学事務局への移管に関しては、口座の管理者を立命館大学の事務局の方に決定。今年4月頃には完全に移管できるように進める。  agenda4: SecWG 暗号資産カストディアンのセキュリティ対策一覧の作成、FISCやISMSの基準とのマッピングを実施中。
+agenda5: Discussion time  CGTFの出すセキュリティ基準は公式に正とはならなくとも、これから交換業に登録をしようとしている業者にとって指針になるはず。公開して、金融庁や社会の目に触れるようにした方が世の中に貢献できるのではないか。 仮想通貨の取り扱い基準を必要としているプレーヤーとしては、交換業者だけでなく”信託”をはじめとしたカストディアンも考えていく必要がある。  agenda6: Next Meeting  2019/02/22 08:00-09:30 TF Meeting @ JDD 2019/03/08 08:00-09:30 TF Meeting @ 検討中 2019/03/22 08:00-09:30 TF Meeting @ 検討中  </description>
+    </item>
+    
+    <item>
       <title>第37回議事録</title>
       <link>/minutes/37_20190125/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0900</pubDate>
